@@ -1,0 +1,4 @@
+/env/
+/product_app/test_ui.py/
+__pycache__/
+/db.sqlite3
